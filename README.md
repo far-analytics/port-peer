@@ -153,6 +153,6 @@ Port Peer is strictly focused on efficient communication over `MessagePort`s. Po
 
 ## Support
 
-If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/port-peer/issues) or start a [discussion](https://github.com/adpatter/port-peer/discussions). You’re also welcome to reach out directly to one of the authors.
+If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/port-peer/issues). You’re also welcome to reach out directly to one of the authors.
 
 - [Adam Patterson](https://github.com/adpatter)
