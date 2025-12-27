@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc --build .",
+    "clean": "rm -rf ./dist/*",
+    "start": "node .",
+    "monitor": "nodemon .",
+    "clean:build": "npm run clean && npm run build",
+    "clean:build:start": "npm run clean:build && npm start"
+  },
+  "author": "FAR",
+  "license": "MIT",
+  "dependencies": {
+    "port-peer": "file:.."
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "typescript": "^5.1.6"
+  }
+}
